@@ -1,0 +1,1 @@
+lambda_test = lambda(starting,period,sequence(period,1,starting)
